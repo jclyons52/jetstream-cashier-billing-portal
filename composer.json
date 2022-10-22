@@ -1,5 +1,5 @@
 {
-    "name": "renoki-co/jetstream-cashier-billing-portal",
+    "name": "jclyons52/jetstream-cashier-billing-portal",
     "description": "Cashierstream is a simple Spark alternative written for Laravel Jetstream.",
     "keywords": ["laravel", "php", "cashier", "billing", "portal", "jetstream", "stripe", "saas", "plans", "subscription"],
     "license": "Apache-2.0",
