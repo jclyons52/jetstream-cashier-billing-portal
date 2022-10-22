@@ -11,9 +11,15 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/jclyons52/cashier-register"
+        }
+    ],
     "require": {
         "laravel/jetstream": "^2.3",
-        "renoki-co/cashier-register": "^6.0"
+        "jclyons52/cashier-register": "dev-master"
     },
     "require-dev": {
         "claudiodekker/inertia-laravel-testing": "^1.2.0",
